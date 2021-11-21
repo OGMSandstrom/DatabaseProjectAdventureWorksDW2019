@@ -6798,6 +6798,32 @@
 			</Relationship>
 			<AttachedAnnotation Disambiguator="79" />
 		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[GetEmployee]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+(
+  SELECT * FROM [dbo].[DimEmployee]
+
+)]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[DimEmployee]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="80" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[GetEmployee]&#xA;AS" />
+			</Annotation>
+		</Element>
 		<Element Type="SqlProcedure" Name="[dbo].[GetReseller]">
 			<Property Name="BodyScript">
 				<Value><![CDATA[ 

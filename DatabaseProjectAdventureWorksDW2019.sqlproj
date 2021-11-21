@@ -112,5 +112,6 @@
     <Build Include="DatabaseTriggers\ddlDatabaseTriggerLog.sql" />
     <Build Include="dbo\StoredProcedures\GetReseller.sql" />
     <Build Include="dbo\StoredProcedures\GetEmployee.sql" />
+    <Build Include="dbo\StoredProcedures\GetCurrency.sql" />
   </ItemGroup>
 </Project>
