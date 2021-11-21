@@ -1,7 +1,0 @@
-CREATE PROCEDURE TEST AS (
-
-    SELECT 1
-)
-
-GO
-
