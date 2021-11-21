@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3RV+xjjGtcfY5xeGEIydYxE5NUVm0iyzX6EJ0hDvr0RMsTmUwMd4WveRXED+zOY7Ou7k2mlNIVO4Y3Q10wIuA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\anton.sandstrom\\source\\repos\\DatabaseProjects\\DatabaseProjectAdventureWorksDW2019\\DatabaseProjectAdventureWorksDW2019.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton.sandstrom\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\anton.sandstrom\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
