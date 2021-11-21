@@ -1,8 +1,10 @@
 c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\bin\Debug\DatabaseProjectAdventureWorksDW2019.dacpac
-c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\obj\Debug\DatabaseProjectAdventureWorksDW2019.sqlproj.AssemblyReference.cache
 c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\obj\Debug\Model.xml
 c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\obj\Debug\refactor.xml
 c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\obj\Debug\postdeploy.sql
 c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\obj\Debug\predeploy.sql
 c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\obj\Debug\DatabaseProjectAdventureWorksDW2019.dll
 c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\obj\Debug\DatabaseProjectAdventureWorksDW2019.pdb
+c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\bin\Debug\DatabaseProjectAdventureWorksDW2019.dll
+c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\bin\Debug\DatabaseProjectAdventureWorksDW2019.pdb
+c:\Users\anton.sandstrom\source\repos\DatabaseProjects\DatabaseProjectAdventureWorksDW2019\obj\Debug\DatabaseProjectAdventureWorksDW2019.sqlprojAssemblyReference.cache
