@@ -67,6 +67,7 @@
     <Folder Include="dbo\Functions\" />
     <Folder Include="DatabaseTriggers\" />
     <Folder Include="dbo\Security\" />
+    <Folder Include="dbo\Security\Users\" />
   </ItemGroup>
   <Target Name="BeforeBuild">
     <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
@@ -114,6 +115,6 @@
     <Build Include="dbo\StoredProcedures\GetReseller.sql" />
     <Build Include="dbo\StoredProcedures\GetEmployee.sql" />
     <Build Include="dbo\StoredProcedures\GetCurrency.sql" />
-    <Build Include="dbo\Security\Dbo2.sql" />
+    <Build Include="dbo\Security\Users\Dbo2.sql" />
   </ItemGroup>
 </Project>
