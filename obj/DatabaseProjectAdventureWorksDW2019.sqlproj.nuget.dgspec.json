@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\anton.sandstrom\\source\\repos\\DatabaseProjects\\DatabaseProjectAdventureWorksDW2019\\DatabaseProjectAdventureWorksDW2019.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\anton.sandstrom\\source\\repos\\DatabaseProjects\\DatabaseProjectAdventureWorksDW2019\\DatabaseProjectAdventureWorksDW2019.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\anton.sandstrom\\source\\repos\\DatabaseProjects\\DatabaseProjectAdventureWorksDW2019\\DatabaseProjectAdventureWorksDW2019.sqlproj",
+        "projectName": "DatabaseProjectAdventureWorksDW2019",
+        "projectPath": "c:\\Users\\anton.sandstrom\\source\\repos\\DatabaseProjects\\DatabaseProjectAdventureWorksDW2019\\DatabaseProjectAdventureWorksDW2019.sqlproj",
+        "packagesPath": "C:\\Users\\anton.sandstrom\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\anton.sandstrom\\source\\repos\\DatabaseProjects\\DatabaseProjectAdventureWorksDW2019\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\anton.sandstrom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
