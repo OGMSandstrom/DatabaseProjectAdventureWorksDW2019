@@ -111,5 +111,6 @@
     <Build Include="dbo\Functions\udfBuildISO8601Date.sql" />
     <Build Include="DatabaseTriggers\ddlDatabaseTriggerLog.sql" />
     <Build Include="dbo\StoredProcedures\GetReseller.sql" />
+    <Build Include="dbo\StoredProcedures\GetEmployee.sql" />
   </ItemGroup>
 </Project>
