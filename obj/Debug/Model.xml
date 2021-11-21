@@ -6798,6 +6798,33 @@
 			</Relationship>
 			<AttachedAnnotation Disambiguator="79" />
 		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[GetReseller]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[ 
+(
+
+  SELECT * FROM [dbo].[dimReseller]
+
+)]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[DimReseller]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="82" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[GetReseller] AS" />
+			</Annotation>
+		</Element>
 		<Element Type="SqlTable" Name="[dbo].[NewFactCurrencyRate]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
 			<Relationship Name="Columns">
