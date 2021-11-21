@@ -106,8 +106,6 @@
     <Build Include="dbo\Tables\DimAccount.sql" />
     <Build Include="dbo\Tables\DatabaseLog.sql" />
     <Build Include="dbo\Tables\AdventureWorksDWBuildVersion.sql" />
-    <Build Include="dbo\StoredProcedures\TEST2.sql" />
-    <Build Include="dbo\StoredProcedures\TEST.sql" />
     <Build Include="dbo\Functions\udfTwoDigitZeroFill.sql" />
     <Build Include="dbo\Functions\udfMinimumDate.sql" />
     <Build Include="dbo\Functions\udfBuildISO8601Date.sql" />
